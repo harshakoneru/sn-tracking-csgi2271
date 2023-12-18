@@ -41,3 +41,7 @@ python3 tools/train.py -f exps/yolox_x_10Ep_bytetrack_mot_17_run2.py -d 2 -b 16 
 ```
 
 **Tracking**
+
+```bash
+python3 deep-oc-sort/main.py --exp_name exp --post --grid_off --new_kf_off --test_dataset --result_folder /path/to/results/folder --dataset soccernet --ann_file_name test --w_assoc_emb 0.75 --aw_param 0.5
+```
