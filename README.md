@@ -9,6 +9,7 @@ https://github.com/GerardMaggiolino/Deep-OC-SORT/
 https://github.com/ifzhang/ByteTrack
 
 **Note**
+
 Some of these scripts use pretrained models stored in one of the author's NYU HPC scratch folder. For now, these files have been made public for all NYU users. If there are errors, please reach out to hk3820@nyu.edu
 
 **Setting Up the Environment**
