@@ -2,7 +2,7 @@
 
 **Acknowledgements**
 
-Significant portions of this codebase has been adapted from the BytrTrack and Deep OC-SORT github pages. We thank the authors of those pages.
+Significant portions of this codebase has been adapted from the ByteTrack and Deep OC-SORT github pages. We thank the authors of those pages.
 
 https://github.com/GerardMaggiolino/Deep-OC-SORT/
 
